@@ -47,5 +47,3 @@ def reconstruction(s, e, dist)
   puts "You made it in #{edges} moves. Here is your path!"
   puts f_path
 end
-
-knight_moves(0, 63)
